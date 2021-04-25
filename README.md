@@ -2,7 +2,7 @@
 
 Welcome to the Royal Flush GitHub repository.
 
-In this repository, you will find four folders:
+In this repository, you will find five folders:
 - Prediction Modelling
 - LDA Topic Modelling
 - Data Preprocessing
