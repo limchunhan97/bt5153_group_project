@@ -3,6 +3,7 @@
 Welcome to the Royal Flush GitHub repository.
 
 In this repository, you will find four folders:
+- <i>This part will be edited further later</i>
 - Modelling
 - Topic Analysis
 - Data Preprocessing
