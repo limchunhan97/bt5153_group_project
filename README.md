@@ -3,11 +3,11 @@
 Welcome to the Royal Flush GitHub repository.
 
 In this repository, you will find four folders:
-- <i>This part will be edited further later</i>
-- Modelling
-- Topic Analysis
+- Prediction Modelling
+- LDA Topic Modelling
 - Data Preprocessing
 - Dataset
+- Data Engineering
 
 The relevant code files belonging to each function can be found in their respective folders.
 
