@@ -1,4 +1,4 @@
-# BT5153 Group Project (Royal Flush)
+# BT5153 Group Project (Team 6 - Royal Flush)
 
 Welcome to the Royal Flush GitHub repository.
 
