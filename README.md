@@ -2,14 +2,12 @@
 
 Welcome to the Royal Flush GitHub repository.
 
-In this repository, you will find four folders:
-- <i>This part will be edited further later</i>
-- Modelling
-- Topic Analysis
+In this repository, you will find five folders:
+- Prediction Modelling
+- LDA Topic Modelling
 - Data Preprocessing
 - Dataset
-
-<img src="BalanceNet Sentiment Classification/checkpoint-0.866.png" width="90%" />
+- Data Engineering
 
 The relevant code files belonging to each function can be found in their respective folders.
 
